@@ -1,3 +1,3 @@
 # Child Test
 
-print ("Child Branch Test:)
+print ("Child Branch Test")
